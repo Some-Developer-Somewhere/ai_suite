@@ -2,5 +2,5 @@
 
 ## TODO
 
-[TODO.md](./TODO.md)
+[TODO](./TODO.md)
 
